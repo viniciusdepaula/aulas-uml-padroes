@@ -12,5 +12,5 @@ Arquivos utilizados na disciplina de UML e Padrões de Projeto do curso de Pós 
 
 **Software para Modelage**
 
-[StarUML](http://staruml.io)
+- [StarUML](http://staruml.io)
 
