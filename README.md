@@ -16,5 +16,5 @@ Arquivos utilizados na disciplina de UML e Padrões de Projeto do curso de Pós 
 
 **Documentos Auxiliares**
 
-- [Documentação do Caso de Uso Abertura de Conta.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Documentação%20do%20Caso%20de%20Encerramento%20de%20Conta.pdf)
+- [Documentação do Caso de Uso Abertura de Conta.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Documentação%20do%20Caso%20de%20Uso%20Abertura%20de%20Conta.pdf)
 - [Documentação do Caso de Encerramento de Conta](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Documentação%20do%20Caso%20de%20Encerramento%20de%20Conta.pdf)
