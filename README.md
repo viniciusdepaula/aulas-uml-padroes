@@ -23,3 +23,6 @@ Arquivos utilizados na disciplina de UML e Padrões de Projeto do curso de Pós 
 
 - [Documentação do Caso de Uso Abertura de Conta.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Documentação%20do%20Caso%20de%20Uso%20Abertura%20de%20Conta.pdf)
 - [Documentação do Caso de Encerramento de Conta](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Documentação%20do%20Caso%20de%20Encerramento%20de%20Conta.pdf)
+
+**Referências Bibliográficas**
+- [Design Patterns Elements of Reusable Object-Oriented Software](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf)
