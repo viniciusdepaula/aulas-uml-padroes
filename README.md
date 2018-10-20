@@ -8,6 +8,7 @@ Arquivos utilizados na disciplina de UML e Padrões de Projeto do curso de Pós 
 - Slides [UML_Padrões_Aula02.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/UML_Padr%C3%B5es_Aula02.pdf) - Diagrama de Classes
 - Slides [UML_Padrões_Aula03.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/UML_Padr%C3%B5es_Aula03.pdf) - Diagrama de Sequência
 - Slides [UML_Padrões_Aula04.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/UML_Padr%C3%B5es_Aula04.pdf) - Padrões de Criação
+- Slides [UML_Padrões_Aula05.pdf](https://github.com/viniciusdepaula/aulas-uml-padroes/blob/master/pdf/UML_Padr%C3%B5es_Aula05.pdf) - Padrões Estruturais
 
 **Lista de Exercícios**
 
